@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.11+commit.d7f03943"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/DexFinance.sol": "SafeMath"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/DexFinance.sol": {
+			"keccak256": "0x35f1ac9d943dbe35a26cd3a2d2ebc3d078508cdcb8e2af26c46d1b04f540472c",
+			"urls": [
+				"bzz-raw://9af0020aa109b090b787c0221a7554d862cbeb17e295e5831f1efce75ef5b9f0",
+				"dweb:/ipfs/Qmeuk3apV5ed26YHShFwA4zVweZ8UmcPkg9i9a5L2Mi15g"
+			]
+		}
+	},
+	"version": 1
+}
